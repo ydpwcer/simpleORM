@@ -1,0 +1,2 @@
+# simpleORM
+简单的用java实现orm，你需要了解的知识是annotation、map、jdbc，从实现的基础上更加的去了解java里面框架的做法
